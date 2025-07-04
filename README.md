@@ -10,7 +10,7 @@ With CineMatrix, you define two matrices via **User Data**, and the system compu
 
 | Set Matrix A | Set Matrix B | Trigger Calculation |
 |--------------|--------------|---------------------|
-| ![Matrix A](mat_1.png) | ![Matrix B](mat_1.png) | ![Calculate](mat_1.png) |
+| ![Matrix A](/mat_1.png) | ![Matrix B](/mat_1.png) | ![Calculate](/mat_1.png) |
 
 ---
 
